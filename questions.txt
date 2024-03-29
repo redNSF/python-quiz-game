@@ -1,0 +1,465 @@
+What is the capital of Italy?
++Rome
+Paris
+Hong Kong
+New York
+What is the capital of England?
+Jakarta
++London
+California
+Los Angeles
+What is the capital of Netherland?
+Berlin
++Amsterdam
+Melbourne
+Sydney
+What is the capital of France?
+Paris
+Rome
+Madrid
++Berlin
+Which river is the longest in the world?
+Nile
+Ganges
+Amazon
++Mississippi
+What is the highest mountain in the world?
++Mount Everest
+K2
+Kilimanjaro
+Denali
+What is the largest ocean on Earth?
+Indian Ocean
++Pacific Ocean
+Atlantic Ocean
+Arctic Ocean
+Which desert is the largest in the world?
+Sahara Desert
++Antarctic Desert
+Gobi Desert
+Kalahari Desert
+What country is known as the Land of the Rising Sun?
++Japan
+China
+South Korea
+Thailand
+Which city is known as the Big Apple?
+Los Angeles
+Chicago
++New York City
+Boston
+What river runs through Baghdad?
+Nile
+Amazon
++Tigris
+Yangtze
+What is the smallest continent in the world?
+Asia
++Australia
+Africa
+Europe
+Which country is known as the Land of a Thousand Lakes?
+Canada
+Russia
++Finland
+Sweden
+What is the capital of Australia?
+Auckland
+Wellington
++Canberra
+Sydney
+Which sea separates Europe from Africa?
+Caribbean Sea
+Mediterranean Sea
++Strait of Gibraltar
+Red Sea
+What is the currency of Japan?
+Euro
++Yen
+Dollar
+Pound
+Which country is the largest by land area?
++Russia
+Canada
+China
+United States
+What is the largest country in South America by area?
++Brazil
+Argentina
+Colombia
+Peru
+What is the capital of Canada?
++Ottawa
+Toronto
+Montreal
+Vancouver
+Which continent is the least populous?
+Asia
++Antarctica
+Europe
+Australia
+What is the world's largest island?
+Madagascar
++Greenland
+Borneo
+New Guinea
+What is the national animal of Australia?
+Kangaroo
+Koala
++Kangaroo
+Emu
+Which river flows through the Grand Canyon?
++Colorado River
+Mississippi River
+Missouri River
+Rio Grande
+What is the official language of Brazil?
+Spanish
+French
++Portuguese
+Dutch
+Which country is known as the Pearl of Africa?
+Nigeria
++Uganda
+Kenya
+Tanzania
+What is the largest city in Africa by population?
+Johannesburg
+Cairo
++Lagos
+Kinshasa
+What is the smallest independent country in the world?
++Vatican City
+Monaco
+San Marino
+Liechtenstein
+Which country is known as the Land of the Midnight Sun?
+Canada
+Norway
++Sweden
+Denmark
+What is the capital of Argentina?
+Santiago
+Montevideo
++Buenos Aires
+Lima
+Which city is located on two continents?
+Istanbul
++Istanbul
+Rome
+Cairo
+What is the longest river in Europe?
+Danube
+Thames
++Volga
+Rhine
+Which mountain range is known as the "Roof of the World"?
++Himalayas
+Alps
+Andes
+Rockies
+Which country is known as the Land of the Thunder Dragon?
+Nepal
++Bhutan
+Myanmar
+Laos
+What is the largest lake in Africa by surface area?
+Lake Victoria
+Lake Tanganyika
+Lake Malawi
++Lake Victoria
+Which country has the longest coastline in the world?
+Russia
+Canada
+Australia
++Canada
+What is the tallest waterfall in the world?
++Angel Falls
+Niagara Falls
+Victoria Falls
+Iguazu Falls
+What is the only sea without any coasts?
++Sargasso Sea
+Red Sea
+Arabian Sea
+Dead Sea
+Which African country was formerly known as Abyssinia?
++Ethiopia
+Sudan
+Eritrea
+Somalia
+What is the capital of South Korea?
+Tokyo
+Beijing
++Seoul
+Pyongyang
+Which country is the largest producer of coffee in the world?
++Brazil
+Colombia
+Ethiopia
+Vietnam
+Which river forms the border between the United States and Mexico?
+Mississippi River
+Rio Grande
+Colorado River
++Rio Grande
+What is the currency of the United Kingdom?
+Euro
++Pound Sterling
+Dollar
+Yen
+Which desert is known as the "Driest Place on Earth"?
+Sahara Desert
++Atacama Desert
+Mojave Desert
+Gobi Desert
+What is the largest city in India by population?
+Mumbai
++Delhi
+Kolkata
+Chennai
+Which country is known as the "Land Down Under"?
+New Zealand
++Australia
+Papua New Guinea
+Fiji
+What is the capital of Turkey?
+Athens
++Ankara
+Istanbul
+Izmir
+Which city is the farthest north?
++Longyearbyen
+Anchorage
+Tromsø
+Reykjavik
+What is the national flower of Japan?
+Cherry Blossom
+Lotus
++Chrysanthemum
+Orchid
+Which country is the largest by population?
++China
+India
+United States
+Indonesia
+What is the largest city in South America by population?
+Buenos Aires
++São Paulo
+Rio de Janeiro
+Bogotá
+Which river is known as the "Cradle of Chinese Civilization"?
+Yangtze River
++Yellow River
+Pearl River
+Huai River
+What is the only continent with land in all four hemispheres?
+Africa
+Europe
++Asia
+North America
+Which country is the smallest by land area?
++Vatican City
+Monaco
+Nauru
+Tuvalu
+What is the capital of Chile?
+Buenos Aires
+Lima
++Santiago
+Montevideo
+Which city is known as the City of Love?
++Paris
+Rome
+Venice
+Florence
+What is the largest archipelago in the world by area?
++Indonesia
+Philippines
+Japan
+Maldives
+Which country is known as the Land of Fire and Ice?
++Iceland
+Greenland
+Norway
+New Zealand
+What is the tallest building in the world?
+Burj Khalifa
++Shanghai Tower
+Abraj Al-Bait Clock Tower
+One World Trade Center
+Which country is known as the Land of Lakes?
++Canada
+Finland
+Sweden
+Norway
+What is the currency of South Africa?
+Peso
++Rand
+Dinar
+Real
+Which sea lies between Europe and Asia?
+Baltic Sea
+Black Sea
+Caspian Sea
++Mediterranean Sea
+What is the largest island country in the world by area?
+Japan
+Indonesia
+Philippines
++Indonesia
+Which river is known as the "Mother of Rivers"?
++Nile
+Amazon
+Ganges
+Yangtze
+What is the national animal of Canada?
+Moose
++Beaver
+Polar Bear
+Caribou
+Which city is known as the City of Seven Hills?
+Istanbul
++Rome
+Lisbon
+Amman
+What is the largest bay in the world?
+San Francisco Bay
++Hudson Bay
+Chesapeake Bay
+Bay of Bengal
+Which country has the largest number of UNESCO World Heritage Sites?
+Italy
++China
+Spain
+France
+What is the national sport of Japan?
+Judo
+Sumo
+Karate
++Sumo
+Which country is the northernmost in Africa?
+Egypt
+Libya
++Tunisia
+Algeria
+What is the capital of Norway?
+Copenhagen
+Stockholm
++Oslo
+Helsinki
+Which ocean is the smallest and shallowest?
+Pacific Ocean
+Indian Ocean
++Arctic Ocean
+Atlantic Ocean
+What is the highest navigable lake in the world?
+Lake Baikal
++Lake Titicaca
+Lake Victoria
+Great Slave Lake
+Which country is known as the Land of a Thousand Islands?
++Indonesia
+Philippines
+Japan
+Maldives
+What is the capital of Egypt?
++Cairo
+Alexandria
+Giza
+Luxor
+Which city is known as the City of Bridges?
+Venice
+Pittsburgh
++Florence
+St. Petersburg
+What is the largest desert in North America?
+Mojave Desert
++Great Basin Desert
+Sonoran Desert
+Chihuahuan Desert
+Which river is known as the "Sorrow of China"?
+Yellow River
++Yangtze River
+Pearl River
+Huai River
+What is the smallest ocean in the world?
+Indian Ocean
+Atlantic Ocean
++Arctic Ocean
+Southern Ocean
+Which country is known as the Land of the Long White Cloud?
+Canada
++New Zealand
+Australia
+Iceland
+What is the national bird of the United States?
+Bald Eagle
++Bald Eagle
+Blue Jay
+Cardinal
+Which city is known as the City of Eternal Spring?
++Medellín
+Quito
+Mexico City
+Caracas
+What is the currency of Switzerland?
+Euro
++Swiss Franc
+Dollar
+Pound Sterling
+Which river is known as the "Lifeline of Egypt"?
++Nile
+Amazon
+Congo
+Mississippi
+What is the highest capital city in the world?
+La Paz
++Quito
+Kathmandu
+Bogotá
+Which country is known as the Land of the Rising Sun?
++Japan
+China
+South Korea
+Thailand
+What is the largest island in the Mediterranean Sea?
+Sardinia
+Sicily
++Cyprus
+Corsica
+Which city is known as the Gateway to the Arctic?
+Anchorage
++Tromsø
+Reykjavik
+Murmansk
+What is the capital of Ireland?
++Dublin
+Belfast
+Cork
+Galway
+Which sea is known as the "Cradle of Civilization"?
+Mediterranean Sea
+Arabian Sea
++Red Sea
+Persian Gulf
+What is the largest canyon in the world?
+Grand Canyon
++Yarlung Tsangpo Grand Canyon
+Fish River Canyon
+Colca Canyon
+Which country has the highest number of islands?
+Indonesia
++Sweden
+Philippines
+Finland
+What is the national flower of India?
++Lotus
+Rose
+Lily
+Marigold
+Which river is known as the "River of Sorrows"?
+Yellow River
++Huang He
+Yangtze River
+Pearl River
